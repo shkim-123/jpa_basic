@@ -18,4 +18,4 @@ logging:
     org.hibernate.type: trace
 
 server:
-  port: 9000
+  port: 9090
